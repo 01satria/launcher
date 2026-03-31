@@ -24,6 +24,8 @@
 
 <div align="center">
 
+<div style="display: grid; grid-template-columns: repeat(2, 340px); gap: 30px; justify-content: center;">
+
 <table style="border-radius: 30px; overflow: hidden; border-collapse: separate;"><tr><td align="center" width="340" bgcolor="#1a1a1a">
 <br/>
 
@@ -33,8 +35,6 @@ A single adaptive bar that surfaces what matters — weather in the morning, you
 
 <br/>
 </td></tr></table>
-
-<br/>
 
 <table style="border-radius: 30px; overflow: hidden; border-collapse: separate;"><tr><td align="center" width="340" bgcolor="#1a1a1a">
 <br/>
@@ -46,8 +46,6 @@ Track your streaks with a contribution heatmap right on the home screen. Mark ha
 <br/>
 </td></tr></table>
 
-<br/>
-
 <table style="border-radius: 30px; overflow: hidden; border-collapse: separate;"><tr><td align="center" width="340" bgcolor="#1a1a1a">
 <br/>
 
@@ -58,9 +56,7 @@ Income and expense widgets that appear only when relevant. Financial clarity wit
 <br/>
 </td></tr></table>
 
-<br/>
-
-<table style="border-radius: 30px; overflow: hidden; border-collapse: separate;"><tr><td align="center" width="680" bgcolor="#1a1a1a">
+<table style="border-radius: 30px; overflow: hidden; border-collapse: separate;"><tr><td align="center" width="340" bgcolor="#1a1a1a">
 <br/>
 
 ### `04` — Adaptive App Drawer
@@ -72,8 +68,9 @@ List mode for speed. Grid mode for beauty. Dynamic search finds any app instantl
 
 </div>
 
----
+</div>
 
+---
 <div align="center">
 
 ## Design
