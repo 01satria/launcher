@@ -96,8 +96,7 @@
 
 <br/>
 
-✦ *"Simplicity is the ultimate sophistication."* ✦
-— Leonardo da Vinci
+ *"Simplicity is the ultimate sophistication."* ✦ Leonardo da Vinci
 
 <br/>
 
