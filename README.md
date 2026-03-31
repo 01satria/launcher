@@ -21,7 +21,13 @@
 ![No Ads](https://img.shields.io/badge/🌿_No-Ads-0a1f1a?style=flat-square)
 
 <br/>
+<div align="center">
 
+<a href="https://link-download-mu-disini">
+  <img src="https://img.shields.io/badge/Download%20Now-000000?style=for-the-badge&logo=android&logoColor=white&color=FF4D94" alt="Download">
+</a>
+
+</div>
 </div>
 
 ---
