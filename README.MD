@@ -1,10 +1,14 @@
 <div align="center">
+
 <br/>
 
 🌑
+
 # Minimal Launcher
-*A home screen built around clarity.*  
+
+*A home screen built around clarity.*
 *Inspired by the quiet elegance of Nothing OS.*
+
 <br/>
 
 ![Android](https://img.shields.io/badge/Android-8.0%2B-000000?style=flat-square&logo=android&logoColor=white)
@@ -13,35 +17,42 @@
 ![Open Source](https://img.shields.io/badge/Open-Source-222222?style=flat-square)
 
 <br/>
+
 </div>
 
 ---
 
 <div align="center">
 
-## Features
-
 <table>
-<tr>
-<td width="50%" valign="top">
-<h3><code>01</code> — Intelligence+ Pill Bar</h3>
-A single adaptive bar that surfaces what matters — weather in the morning, your calendar at noon, focus timers during work, and wind-down prompts at night. No clutter. No guessing.
-</td>
-<td width="50%" valign="top">
-<h3><code>02</code> — Habit Heatmap</h3>
-Track your streaks with a contribution heatmap right on the home screen. Mark habits done directly from the Pill Bar — no app-switching, no friction.
-</td>
-</tr>
-<tr>
-<td width="50%" valign="top">
-<h3><code>03</code> — Money Manager</h3>
-Income and expense widgets that appear only when relevant. Financial clarity without ever leaving your home screen.
-</td>
-<td width="50%" valign="top">
-<h3><code>04</code> — Adaptive App Drawer</h3>
-List mode for speed. Grid mode for beauty. Dynamic search finds any app instantly — exactly as your mind expects.
-</td>
-</tr>
+  <tr>
+    <td align="center" width="340" bgcolor="#1a1a1a">
+      <br/>
+      <b><code>01</code> — Intelligence+ Pill Bar</b><br/><br/>
+      A single adaptive bar that surfaces what matters — weather in the morning, your calendar at noon, focus timers during work, and wind-down prompts at night. No clutter. No guessing.
+      <br/><br/>
+    </td>
+    <td align="center" width="340" bgcolor="#1a1a1a">
+      <br/>
+      <b><code>02</code> — Habit Heatmap</b><br/><br/>
+      Track your streaks with a contribution heatmap right on the home screen. Mark habits done directly from the Pill Bar — no app-switching, no friction.
+      <br/><br/>
+    </td>
+  </tr>
+  <tr>
+    <td align="center" width="340" bgcolor="#1a1a1a">
+      <br/>
+      <b><code>03</code> — Money Manager</b><br/><br/>
+      Income and expense widgets that appear only when relevant. Financial clarity without ever leaving your home screen.
+      <br/><br/>
+    </td>
+    <td align="center" width="340" bgcolor="#1a1a1a">
+      <br/>
+      <b><code>04</code> — Adaptive App Drawer</b><br/><br/>
+      List mode for speed. Grid mode for beauty. Dynamic search finds any app instantly — exactly as your mind expects.
+      <br/><br/>
+    </td>
+  </tr>
 </table>
 
 </div>
@@ -75,14 +86,16 @@ List mode for speed. Grid mode for beauty. Dynamic search finds any app instantl
 ---
 
 <div align="center">
+
 <br/>
 
-*"Simplicity is the ultimate sophistication."*  
+*"Simplicity is the ultimate sophistication."*
 — Leonardo da Vinci
 
 <br/>
 
-Crafted with quiet passion by [01satria](https://github.com/01satria)  
+Crafted with quiet passion by [01satria](https://github.com/01satria)
+
 🌑
 
 </div>
