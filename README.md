@@ -125,5 +125,5 @@
 
 <p align="center">
   <i>© 2026 See.Cloudys Team — All rights reserved</i><br/>
-  <sub>Private Launcher Experience • Not for redistribution • Beta Access</sub>
+  <sub>Private launcher experience • Not for redistribution • Public beta access</sub>
 </p>
