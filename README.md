@@ -121,6 +121,9 @@
 
  *"Simplicity is the ultimate sophistication."* ✦ Leonardo da Vinci
 
-Crafted with quiet passion by [01satria](https://github.com/01satria) 🌑
-
 </div>
+
+<p align="center">
+  <i>© 2026 See.Cloudys Team — All rights reserved</i><br/>
+  <sub>Private Launcher Experience • Not for redistribution • Internal Use Only</sub>
+</p>
