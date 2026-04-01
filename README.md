@@ -6,19 +6,20 @@
 
 # Minimal Flow Launcher - **BETA**
 
-![Android](https://img.shields.io/badge/🤖_Android-6.0%2B-0a1f3a?style=flat-square&logoColor=white)
-![License](https://img.shields.io/badge/⚖️_License-MIT-1a0a2e?style=flat-square)
-![Style](https://img.shields.io/badge/◉_Style-OneUI_&_Origin_OS-2e0a0a?style=flat-square)
-![No Ads](https://img.shields.io/badge/🌿_No-Ads-0a1f1a?style=flat-square)
-<div align="center">
-
-<img src="public/image/image.png" alt="preview" width="700" height="400" />
 *A home screen built around clarity.*
 <br/>
 *Inspired by the quiet elegance of OneUI and Origin OS.*
 <br/>
-<br/>
+![Android](https://img.shields.io/badge/🤖_Android-6.0%2B-0a1f3a?style=flat-square&logoColor=white)
+![License](https://img.shields.io/badge/⚖️_License-MIT-1a0a2e?style=flat-square)
+![Style](https://img.shields.io/badge/◉_Style-OneUI_&_Origin_OS-2e0a0a?style=flat-square)
+![No Ads](https://img.shields.io/badge/🌿_No-Ads-0a1f1a?style=flat-square)
 
+<img src="public/image/image.png" alt="preview" width="800" height="500" />
+
+<br/>
+<br/>
+<div align="center">
 
 <a href="https://github.com/01satria/LauncherAppv3/releases/tag/1.1BETA">
   <img src="https://img.shields.io/badge/Download%20Now-000000?style=for-the-badge&logo=android&logoColor=white&color=FF4D94" alt="Download">
@@ -116,13 +117,12 @@
 
 <div align="center">
 
+<br/>
+
  *"Simplicity is the ultimate sophistication."* ✦ Leonardo da Vinci
-<br/><br/>
-<br/><br/>
+
+<br/>
+
+Crafted with quiet passion by [01satria](https://github.com/01satria) 🌑
 
 </div>
-
-<p align="center">
-  <i>© 2026 See.Cloudys Team — All rights reserved</i><br/>
-  <sub>Private launcher experience • Not for redistribution • Public beta access</sub>
-</p>
