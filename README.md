@@ -89,7 +89,7 @@
 
 ### ✦ Design
 
-🔡 `Dot-Matrix Typography` &nbsp;·&nbsp; ⬛ `OLED Black` &nbsp;·&nbsp; ✦ `Essential Iconography` &nbsp;·&nbsp; 🖼 `Depth Wallpaper`
+🔡 `Dot Matrix Typography` &nbsp;·&nbsp; ⬛ `OLED Black` &nbsp;·&nbsp; ✦ `Essential Iconography` &nbsp;·&nbsp; 🖼 `Depth Wallpaper`
 
 *Every element earns its place or disappears.*
 
