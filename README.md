@@ -123,6 +123,6 @@
 <br/>
 
 <p align="center">
-  <i>© 2026 See.Cloudys Team — All rights reserved</i><br/>
+  <i>© 2026 see.cloudys Team — All rights reserved</i><br/>
   <sub>Private Launcher • Not for redistribution • Public Beta</sub>
 </p>
