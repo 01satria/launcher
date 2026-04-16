@@ -121,6 +121,7 @@
 | Feature                  | Status       | Release | Reject |
 |------------------------|--------------|-----------|----------|
 | Receipt Scanner | Review | |✅|
+| Hide Status Bar | Review | |✅|
 | Senior Mode | Pending | | |
 | Kids Mode | Pending | | |
 | Liquid Glass Effect | In Progress| | |
