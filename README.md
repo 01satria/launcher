@@ -120,7 +120,7 @@
 
 | Feature                  | Status       | Release | Reject |
 |------------------------|--------------|-----------|----------|
-| Receipt Scanner | Review | |✅|
+| Auto Receipt Scanner | Review | |✅|
 | Hide Status Bar | Review | |✅|
 | Widget Integration | Testing | | |
 | Senior Mode | Pending | | |
