@@ -180,5 +180,5 @@ Google Play Protect may flag this APK as an unrecognized app because it is not d
 
 <p align="center">
   <i>© 2026 see.cloudys Team — All rights reserved</i><br/>
-  <sub>Private Launcher • Not for redistribution • Public Beta</sub>
+  <sub>Private Launcher • Not for redistribution • Release</sub>
 </p>
