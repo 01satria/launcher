@@ -8,6 +8,8 @@ currently being supported with security updates.
 
 | Version | Supported          |
 | ------- | ------------------ |
+|   1.9   | :white_check_mark: |
+|   1.7 - 1.8   | :white_check_mark: |
 |   1.6   | :white_check_mark: |
 |   1.5   | :white_check_mark: |
 |   1.4   | :white_check_mark: |
