@@ -1,6 +1,8 @@
 <!-- github.com/01satria -->
 # Security Policy
-https://seecloudys.notion.site/Privacy-policy-35f4b0f5360e8092af32c7f3ffa91e25?pvs=74
+<a href="https://seecloudys.notion.site/Privacy-policy-35f4b0f5360e8092af32c7f3ffa91e25?source=copy_link">
+  <img src="https://img.shields.io/badge/Privacy%20Policy-000000?style=for-the-badge&logo=notion&logoColor=white&color=006169" alt="Privacy Policy">
+</a>
 
 ## Supported Versions
 
