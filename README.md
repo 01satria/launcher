@@ -8,11 +8,6 @@
 <img src="public/image/image.png" alt="preview" width="800" height="500" />
 
 <br/>
-<em>A home screen built around clarity.</em>
-<br/>
-<em>Inspired by the quiet elegance of OneUI and Origin OS.</em>
-
-<br/>
 
 
 <br/>
