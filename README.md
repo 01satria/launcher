@@ -101,18 +101,6 @@
 
 <div align="center">
 
-### ✦ Design
-
-`Dot Matrix Typography` &nbsp;·&nbsp; `OLED Black` &nbsp;·&nbsp; `Essential Iconography` &nbsp;·&nbsp; `Intuitive`
-
-*Every element earns its place or disappears.*
-
-</div>
-
----
-
-<div align="center">
-
 ### 🤝 Contribute
 
 </div>
