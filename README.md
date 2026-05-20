@@ -1,8 +1,8 @@
 <div align="center">
 <br/>
 
-<img src="public/image/ic_launcher.png" width="96" alt="Flow Launcher icon" />
-<img src="public/image/text_launcher.png" alt="Flow Launcher" width="900" />
+<!-- <img src="public/image/ic_launcher.png" width="96" alt="Flow Launcher icon" />
+<img src="public/image/text_launcher.png" alt="Flow Launcher" width="900" /> -->
 <img src="public/image/image.png" alt="preview" width="800" height="500" />
 
 <br/>
