@@ -176,7 +176,7 @@ Google Play Protect may flag this APK as an unrecognized app because it is not d
 </div>
 
 <br/>
-<br/>
+
 
 <p align="center">
   <i>© 2026 see.cloudys Team — All rights reserved</i><br/>
