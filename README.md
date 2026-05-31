@@ -117,7 +117,7 @@
 | Kids Mode | Backlog | | |
 | Football League Info | Backlog | | |
 | Separate Glass Dock Toogle | Backlog | | |
-| Support theming of Bottomsheetbox | Backlog | | |
+| Support theming of Bottomsheetbox | In-Progress | | |
 
 
 <img src="public/image/devflow.svg" width="400" alt="Flow process" />
